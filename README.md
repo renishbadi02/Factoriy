@@ -26,6 +26,9 @@ def factorial(n):
 sample_number = 5
 output = factorial(sample_number)
 print(f"Factorial of {sample_number} is: {output}")
+
+
+
 📐 Program 2: Math Operations using math module
 This program asks the user for a number and calculates:
 
